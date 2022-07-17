@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bank Credit Card Transaction Fraud Detection](https://bit.ly/3c9M9py)
+<img src="dashboard.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

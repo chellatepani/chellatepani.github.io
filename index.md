@@ -6,7 +6,7 @@
 
 [Bank Credit Card Transaction Fraud Detection](https://bit.ly/3c9M9py)
 [In this project, we did Fraud Understanding, Explatory Data Analysis, Dashboarding and Regression Modelling on Bank Credit Card Transaction dataset.]
-<img src="dashboardfixbanget.jpg?raw=true"/>
+<img src="dashboardfixbanget.jpg/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

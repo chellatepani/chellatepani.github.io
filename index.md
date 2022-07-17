@@ -10,7 +10,7 @@ In this final project, my team and I did Fraud Understanding, Explatory Data Ana
 
 ---
 [Data Science Use Case in the Health Industry](/pdf/use_case.pdf) 
-I found an example of data science use case in the health industry. In this case, used K-means Clustering to find out how to group the hospitalization rates by the patient's disease rate.
+I found an example of data science use case in the health industry. In this case, used K-means Clustering to group the hospitalization rates by the patient's disease rate.
 <img src="images/dashboard2fixbgt.png"/>
 
 

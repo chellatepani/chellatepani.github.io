@@ -5,7 +5,7 @@
 ### Data Analysis Project
 
 [Bank Credit Card Transaction Fraud Detection](https://bit.ly/3c9M9py)
-<img src="dashboard.jpg?raw=true"/>
+<img src="dashboardfix.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
